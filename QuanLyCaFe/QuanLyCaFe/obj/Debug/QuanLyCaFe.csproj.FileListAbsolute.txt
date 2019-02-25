@@ -1,0 +1,12 @@
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojResolveAssemblyReference.cache
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Form1.resources
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.Cache
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.frm_Table_Manager.resources
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.frm_AccountProfile.resources
+D:\Project\C#\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.frm_Admin.resources
