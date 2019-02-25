@@ -1,0 +1,8 @@
+D:\Project\C#\PaintDemo\PaintDemo\bin\Debug\PaintDemo.exe.config
+D:\Project\C#\PaintDemo\PaintDemo\bin\Debug\PaintDemo.exe
+D:\Project\C#\PaintDemo\PaintDemo\bin\Debug\PaintDemo.pdb
+D:\Project\C#\PaintDemo\PaintDemo\obj\Debug\PaintDemo.Form1.resources
+D:\Project\C#\PaintDemo\PaintDemo\obj\Debug\PaintDemo.Properties.Resources.resources
+D:\Project\C#\PaintDemo\PaintDemo\obj\Debug\PaintDemo.csproj.GenerateResource.Cache
+D:\Project\C#\PaintDemo\PaintDemo\obj\Debug\PaintDemo.exe
+D:\Project\C#\PaintDemo\PaintDemo\obj\Debug\PaintDemo.pdb
